@@ -2,6 +2,7 @@ body {
   font-family: 'Comfortaa', cursive;
   background-image: url('https://instamobile.io/wp-content/uploads/2020/05/willian-justen-de-vasconcellos-_MMP5j_fCqw-unsplash-1024x496.jpg');
   background-repeat: no-repeat;
+  background-position: center;
 }
 h1 {
   color: black;
