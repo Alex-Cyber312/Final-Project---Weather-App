@@ -1,8 +1,10 @@
 body {
-  font-family: arial, sans-seriff;
+  font-family: 'Comfortaa', cursive;
+  background-image: url('https://instamobile.io/wp-content/uploads/2020/05/willian-justen-de-vasconcellos-_MMP5j_fCqw-unsplash-1024x496.jpg');
+  background-repeat: no-repeat;
 }
 h1 {
-  color: #878787;
+  color: black;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -17,10 +19,11 @@ li {
   margin: 0;
   padding: 0;
   text-transform: capitalize;
-  color: rgb(135, 135, 135);
+  color: rgb(1, 114, 103);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
+  opacity: 1;
 }
 li:first-letter {
   text-transform: capitalize;
@@ -68,11 +71,11 @@ li:first-letter {
 }
 .weather-forecast-date {
   font-size: 16px;
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .weather-forecast-temperature-min {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 .weather-foreast-temperatures {
   font-size: 13px;
